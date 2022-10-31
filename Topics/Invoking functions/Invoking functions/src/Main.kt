@@ -1,5 +1,5 @@
 fun main() { 
     val number = readln().toDouble() 
-    val logNumber = Math.log10(number)  // fix this line
+    val logNumber = Math.log10(number)
     println(logNumber) 
 }
